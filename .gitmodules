@@ -1,0 +1,3 @@
+[submodule "dataset/IWSLT14"]
+	path = dataset/IWSLT14
+	url = https://huggingface.co/datasets/bbaaaa/iwslt14-de-en
